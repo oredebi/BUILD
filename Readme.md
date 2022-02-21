@@ -1,2 +1,3 @@
 This is my First trial build. GOD IS IN CONTROL
-I shall succeed in JESUS NAME
+I shall succeed in JESUS NAME.
+NO WEAPON FASHIONED AGAINST ME SHALL PROSPER.
