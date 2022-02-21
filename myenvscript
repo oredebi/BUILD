@@ -1,0 +1,19 @@
+#!/bin/bash
+# Description: Myenvscript
+# Author:Ade
+# Date: 02/20/2022
+
+
+echo "HELLO LOVE My program is ${TERM_PROGRAM}"
+echo "My shell is ${SHELL}"
+echo "my term is ${TERM}"
+echo "my tmpdir is ${TMPDIR}"
+echo "My user id is ${USER}"
+echo "My print work directory is ${PWD}"
+echo 'My language is ${LANG}'
+echo "My home Directory is ${HOME}"
+echo "Finally, my logname is ${LOGNAME}"
+
+
+
+echo "TO GOD BE THE GLORY"
