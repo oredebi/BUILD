@@ -1,0 +1,33 @@
+#!/bin/bash
+# Description: If Script
+# Author: ADE
+# Date:02/20/2022
+
+echo "What is your name?"
+read NAME 
+
+if [ "$NAME" = "ADE" ]
+then
+     echo "WELCOME BACK"
+else
+     echo "YOU ARE not ALLOWED ON THIS SYSTEM"
+     fi
+
+echo "Where are you from?"
+read COUNTRY
+
+if [ "$COUNTRY" = "NIGERIA" ]
+then
+    echo "I AM HAPPY YOU COME FROM THERE"
+else echo "YOU ARE AN ALIEN"
+
+sleep 3 seconds
+fi
+echo "WHY ARE YOU LEARNING LINUX"
+read WHY
+if [ "$WHY" = "6FIGURES" ]
+then 
+    echo "YOU ARE AT THE RIGHT PLACE"
+else
+    echo "INVALID ANSWER"
+fi        
